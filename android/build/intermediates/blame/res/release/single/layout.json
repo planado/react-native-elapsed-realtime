@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/832a150f769c0aa422f4e49c396b1924d8906aed/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/tooltip.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/layout/tooltip.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/a20e810b7c0a95f4d7992fbac5cf3632f018610a/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/832a150f769c0aa422f4e49c396b1924d8906aed/output/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/832a150f769c0aa422f4e49c396b1924d8906aed/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/redbox_view.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/e8d35c4b15d527ae8bf5c48a818daefd4b0f1518/output/res/layout/redbox_view.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/a20e810b7c0a95f4d7992fbac5cf3632f018610a/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/832a150f769c0aa422f4e49c396b1924d8906aed/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/a20e810b7c0a95f4d7992fbac5cf3632f018610a/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/notification_template_lines_media.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/832a150f769c0aa422f4e49c396b1924d8906aed/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/redbox_item_title.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/e8d35c4b15d527ae8bf5c48a818daefd4b0f1518/output/res/layout/redbox_item_title.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/832a150f769c0aa422f4e49c396b1924d8906aed/output/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/832a150f769c0aa422f4e49c396b1924d8906aed/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/dev_loading_view.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/e8d35c4b15d527ae8bf5c48a818daefd4b0f1518/output/res/layout/dev_loading_view.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/fps_view.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/e8d35c4b15d527ae8bf5c48a818daefd4b0f1518/output/res/layout/fps_view.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/redbox_item_frame.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/e8d35c4b15d527ae8bf5c48a818daefd4b0f1518/output/res/layout/redbox_item_frame.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/832a150f769c0aa422f4e49c396b1924d8906aed/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/a20e810b7c0a95f4d7992fbac5cf3632f018610a/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/a20e810b7c0a95f4d7992fbac5cf3632f018610a/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/832a150f769c0aa422f4e49c396b1924d8906aed/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    }
+]

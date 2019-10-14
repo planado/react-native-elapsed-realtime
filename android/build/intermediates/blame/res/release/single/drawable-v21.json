@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/a20e810b7c0a95f4d7992fbac5cf3632f018610a/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/db89150d290852e882b038afcca29473996f1d1d/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

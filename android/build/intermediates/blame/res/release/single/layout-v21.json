@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/a20e810b7c0a95f4d7992fbac5cf3632f018610a/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/a20e810b7c0a95f4d7992fbac5cf3632f018610a/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/a20e810b7c0a95f4d7992fbac5cf3632f018610a/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/nguyenvankhoi/projects/elapsedRealtimeTest/node_modules/react-native-elapsed-realtime/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/nguyenvankhoi/.android/build-cache/a20e810b7c0a95f4d7992fbac5cf3632f018610a/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]
